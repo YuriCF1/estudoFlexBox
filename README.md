@@ -15,10 +15,10 @@ A site to display several course using a display flex layout
 
 ### Deploy do projeto: https://yuricf1.github.io/estudoFlexBox/
 
-<img src="https://raw.githubusercontent.com/YuriCF1/Proj.Study---Accessibility-blind/main/example.png" alt="imagem do site">
+<img src="https://raw.githubusercontent.com/YuriCF1/estudoFlexBox/main/example.png" alt="imagem do site">
 
 
-## 🤝 Colaboradores
+## 🤝 collaborators
 
 We thank the following people who contributed to this project:
 
